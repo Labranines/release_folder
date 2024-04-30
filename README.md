@@ -14,21 +14,21 @@ python folder_release.py -p ./demo/test
 
 - demo
   -  test
-     1.  101
-     2. 102
+     -  101
+     -  102
         -  003.py
-     3. 001.py
-     4. 002.py
+     -  001.py
+     -  002.py
 
 变更后的结构为：
 
 - demo
-  1. test
-  2. 101
-  3. 102
-  4. 001.py
+  -  test
+  -  101
+  -  102
+  -  001.py
       -  003.py
-  5. 002.py
+  -  002.py
 
 不删除原初文件夹是为了防止误操作。
 
