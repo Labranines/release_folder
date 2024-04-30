@@ -14,11 +14,11 @@ python folder_release.py -p ./demo/test
 
 - demo
   -  test
-    1.  101
-    2. 102
+     1.  101
+     2. 102
        -  003.py
-    3. 001.py
-    4. 002.py
+     3. 001.py
+     4. 002.py
 
 变更后的结构为：
 
